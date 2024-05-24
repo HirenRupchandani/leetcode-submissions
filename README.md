@@ -1,2 +1,2 @@
 # leetcode-submissions
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+- A set of questions that I have solved on Leetcode - Data Structures, Algorithms, and SQL
