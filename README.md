@@ -1,7 +1,9 @@
 # leetcode-submissions
 - A set of questions that I have solved on Leetcode - Data Structures, Algorithms, and SQL
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Hiren_Rupchandani?theme=dark&font=Voces&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Hiren_Rupchandani?theme=dark&font=Voces&ext=heatmap)(https://leetcode.com/u/Hiren_Rupchandani/)
+
+![Check Out my LeetCode Profile](https://leetcode.com/u/Hiren_Rupchandani/)
 
 # Two Pointers
 |  |
