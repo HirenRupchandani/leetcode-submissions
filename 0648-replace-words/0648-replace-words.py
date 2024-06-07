@@ -1,14 +1,49 @@
+class TrieTree:
+    def __init__(self):
+        self.root = {}
+        
+    def insert(self, word):
+        p = self.root
+        for char in word:
+            if char not in p:
+                p[char] = {}
+            p = p[char]
+        p['#'] = True
+    
+    def search(self, word):
+        p = self.root
+        res = ''
+        for char in word:
+            if char in p:
+                res += char
+                p = p[char]
+                if '#' in p:
+                    break
+            else:
+                break
+        return res if '#' in p else word
+
 class Solution:
     def replaceWords(self, dictionary: List[str], sentence: str) -> str:
-        rootset = set(dictionary)
+    # Trie Tree:
+        tree = TrieTree()
+        for root in dictionary:
+            tree.insert(root)
+        return ' '.join(map(tree.search, sentence.split()))
 
-        def replace(word):
-            for i in range(1, len(word)):
-                if word[:i] in rootset:
-                    return word[:i]
-            return word
+    # Solution: A bit optimized
+    # def replaceWords(self, dictionary: List[str], sentence: str) -> str:
+    #     rootset = set(dictionary)
 
-        return " ".join(map(replace, sentence.split()))
+    #     def replace(word):
+    #         for i in range(1, len(word)):
+    #             if word[:i] in rootset:
+    #                 return word[:i]
+    #         return word
+
+    #     return " ".join(map(replace, sentence.split()))
+
+        # Brute Force
         # res = ""
         # dictionary.sort()
         # sentence = [word for word in sentence.split()]
