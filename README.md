@@ -1,9 +1,11 @@
 # leetcode-submissions
 - A set of questions that I have solved on Leetcode - Data Structures, Algorithms, and SQL
 
+- [Solved LeetCode SQL Problems Repository](https://github.com/HirenRupchandani/sql-practice-leetcode)
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Hiren_Rupchandani?theme=dark&font=Voces&ext=heatmap)
 
-[Check Out my LeetCode Profile](https://leetcode.com/u/Hiren_Rupchandani/)
+- [Check Out my LeetCode Profile](https://leetcode.com/u/Hiren_Rupchandani/)
 
 
 # Two Pointers
