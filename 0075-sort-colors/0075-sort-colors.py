@@ -10,5 +10,5 @@ class Solution:
             l[num] += 1
         for i in range(3):
             result += [i] * l[i]
-        # print(result)
-        nums[:] = result[:]
+        for i in range(len(nums)):
+            nums[i] = result[i]
