@@ -27,6 +27,7 @@
 | ------- |
 | [0409-longest-palindrome](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0409-longest-palindrome) |
 | [0876-hand-of-straights](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0876-hand-of-straights) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Hash Table
 |  |
@@ -49,6 +50,7 @@
 | [1044-find-common-characters](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Sorting
 |  |
 | ------- |
@@ -56,6 +58,7 @@
 | [0876-hand-of-straights](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Trie
 |  |
 | ------- |
