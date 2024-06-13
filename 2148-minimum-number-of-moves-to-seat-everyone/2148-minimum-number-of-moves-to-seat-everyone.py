@@ -9,6 +9,4 @@ class Solution:
         # Think of it like getting seated in ith row because you have jth height.
         # Taller student gets seated at the later rows.
         res = 0
-        for i in range(len(seats)):
-            res += abs(seats[i] - students[i])
-        return res
+        return sum([abs(seats[i] - students[i]) for i in range(len(seats))])
