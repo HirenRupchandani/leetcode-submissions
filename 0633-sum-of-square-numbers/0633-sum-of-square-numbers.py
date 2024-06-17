@@ -7,7 +7,6 @@ class Solution:
         l = 0
         r = x-1
         while l<=r:
-            # mid = (l+r) // 2
             if arr[r] == c or arr[l] == c:
                 return True
             if arr[r] + arr[l] == c:
