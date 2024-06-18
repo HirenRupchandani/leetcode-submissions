@@ -103,3 +103,7 @@
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0853-most-profit-assigning-work) |
+# Database
+|  |
+| ------- |
+| [0601-human-traffic-of-stadium](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0601-human-traffic-of-stadium) |
