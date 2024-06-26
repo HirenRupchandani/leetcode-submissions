@@ -14,24 +14,14 @@ class Solution:
             inorder(root.left)
             nodes.append(root.val)
             inorder(root.right)
-            # return
-        
         inorder(root)
-        print(nodes)
 
         def build_tree(nodes):
             m = len(nodes) // 2
             if len(nodes) == 0:
                 return 
-            print(m, len(nodes))
             node = TreeNode(val = nodes[m])
             node.left = build_tree(nodes[:m])
             node.right = build_tree(nodes[m+1:]) 
             return node
-        # n = len(nodes) // 2
-        new_root = build_tree(nodes)
-        return new_root
-
-
-
-        
+        return build_tree(nodes)
