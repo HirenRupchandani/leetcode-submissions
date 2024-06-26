@@ -28,10 +28,8 @@ class Solution:
             node.left = build_tree(nodes[:m])
             node.right = build_tree(nodes[m+1:]) 
             return node
-        n = len(nodes) // 2
-        new_root = TreeNode(val = nodes[n])
-        new_root.left = build_tree(nodes[:n])
-        new_root.right = build_tree(nodes[n+1:])
+        # n = len(nodes) // 2
+        new_root = build_tree(nodes)
         return new_root
 
 
