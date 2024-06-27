@@ -49,6 +49,7 @@
 | [1044-find-common-characters](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1217-relative-sort-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1370-count-number-of-nice-subarrays) |
+| [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 # Array
 |  |
@@ -177,3 +178,4 @@
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1916-find-center-of-star-graph) |
+| [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
