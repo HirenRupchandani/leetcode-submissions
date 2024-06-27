@@ -24,6 +24,7 @@
 | [0648-replace-words](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0648-replace-words) |
 | [1044-find-common-characters](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1044-find-common-characters) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 # Greedy
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | [1044-find-common-characters](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1217-relative-sort-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1370-count-number-of-nice-subarrays) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 # Array
 |  |
 | ------- |
@@ -71,6 +73,7 @@
 | [1675-magnetic-force-between-two-balls](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 # Sorting
 |  |
 | ------- |
@@ -87,6 +90,7 @@
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0648-replace-words) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 # Math
 |  |
 | ------- |
