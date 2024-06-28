@@ -188,3 +188,22 @@
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0289-game-of-life) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Greedy
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/2379-maximum-total-importance-of-roads) |
+## Graph
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/2379-maximum-total-importance-of-roads) |
+## Sorting
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/2379-maximum-total-importance-of-roads) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/2379-maximum-total-importance-of-roads) |
+<!---LeetCode Topics End-->
