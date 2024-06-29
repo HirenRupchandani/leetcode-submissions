@@ -1,21 +1,28 @@
 class Solution:
     def getAncestors(self, n: int, edges: List[List[int]]) -> List[List[int]]:
+        # contruct a graph from children to parent
         graph = defaultdict(list)
         for a, b in edges:
             graph[b].append(a)
         
-        ans = []
+        result = []
+        # For each node
         for i in range(n):
+            # Put the node in a queue
             queue = deque([i])
             visited = set()
+            # Append the neighbors in queue while queue is not empty and append neighbors in visited
             while queue:
                 node = queue.popleft()
                 for nei in graph[node]:
                     if nei not in visited:
                         queue.append(nei)
                         visited.add(nei)
-            ans.append(sorted(list(visited)))
-        return ans
+            # Append the visited nodes into result
+            result.append(sorted(list(visited)))
+        return result
+
+        # My Solution: 79/80 ran with one TLE
         connected = {}
         for u, v in edges:
             if v in connected:
