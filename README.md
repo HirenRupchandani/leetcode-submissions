@@ -197,6 +197,7 @@
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0684-redundant-connection) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2379-maximum-total-importance-of-roads](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/2379-maximum-total-importance-of-roads) |
 ## Sorting
@@ -210,13 +211,19 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0684-redundant-connection) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0684-redundant-connection) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Topological Sort
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Union Find
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0684-redundant-connection) |
 <!---LeetCode Topics End-->
