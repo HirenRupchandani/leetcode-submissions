@@ -219,6 +219,7 @@
 | ------- |
 | [0684-redundant-connection](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0684-redundant-connection) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
 |  |
@@ -303,11 +304,13 @@
 ## Tree
 |  |
 | ------- |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/2306-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
