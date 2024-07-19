@@ -10,9 +10,7 @@ class Solution:
         for j in range(m):
             maxs.append(max([row[j] for row in matrix]))
 
-        for i in range(min(m,n)):
-            if mins[i] in maxs:
-                result.append(mins[i])
-            if maxs[i] in mins:
-                result.append(maxs[i])
-        return list(set(result))
+        for i in maxs:
+            if i in mins:
+                result.append(i)
+        return result
