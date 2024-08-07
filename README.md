@@ -380,4 +380,8 @@
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1511-count-number-of-teams) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
