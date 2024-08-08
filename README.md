@@ -384,4 +384,5 @@
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0595-big-countries) |
+| [0619-biggest-single-number](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0619-biggest-single-number) |
 <!---LeetCode Topics End-->
