@@ -252,6 +252,7 @@
 | [0870-magic-squares-in-grid](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0948-sort-an-array) |
+| [1196-filling-bookcase-shelves](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1333-sort-the-jumbled-numbers) |
@@ -387,6 +388,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [1196-filling-bookcase-shelves](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1511-count-number-of-teams) |
 ## Binary Indexed Tree
 |  |
