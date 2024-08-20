@@ -226,6 +226,7 @@
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0684-redundant-connection) |
+| [1207-delete-nodes-and-return-forest](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -251,6 +252,7 @@
 | [0870-magic-squares-in-grid](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0948-sort-an-array) |
+| [1207-delete-nodes-and-return-forest](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -272,6 +274,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0870-magic-squares-in-grid) |
+| [1207-delete-nodes-and-return-forest](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -337,12 +340,14 @@
 ## Tree
 |  |
 | ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/2306-create-binary-tree-from-descriptions) |
