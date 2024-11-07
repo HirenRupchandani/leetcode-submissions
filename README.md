@@ -325,6 +325,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0273-integer-to-english-words](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0273-integer-to-english-words) |
 | [0664-strange-printer](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0726-number-of-atoms) |
@@ -338,6 +339,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0726-number-of-atoms](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1720-crawler-log-folder) |
