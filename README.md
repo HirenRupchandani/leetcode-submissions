@@ -340,6 +340,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0155-min-stack) |
 | [0726-number-of-atoms](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1720-crawler-log-folder) |
@@ -406,4 +407,8 @@
 | ------- |
 | [0595-big-countries](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0595-big-countries) |
 | [0619-biggest-single-number](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0619-biggest-single-number) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
