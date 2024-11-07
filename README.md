@@ -251,6 +251,7 @@
 | ------- |
 | [0015-3sum](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0015-3sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0739-daily-temperatures](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0739-daily-temperatures) |
 | [0870-magic-squares-in-grid](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0948-sort-an-array) |
@@ -342,6 +343,7 @@
 | [0020-valid-parentheses](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0155-min-stack) |
 | [0726-number-of-atoms](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0726-number-of-atoms) |
+| [0739-daily-temperatures](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0739-daily-temperatures) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -411,4 +413,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
