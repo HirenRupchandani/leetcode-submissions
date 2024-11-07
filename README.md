@@ -209,6 +209,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0015-3sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0948-sort-an-array) |
@@ -248,6 +249,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0015-3sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0870-magic-squares-in-grid](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0921-spiral-matrix-iii) |
@@ -283,6 +285,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0015-3sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
