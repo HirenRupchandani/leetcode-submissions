@@ -210,6 +210,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0015-3sum) |
+| [0242-valid-anagram](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0948-sort-an-array) |
@@ -276,6 +277,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0870-magic-squares-in-grid) |
@@ -328,6 +330,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0273-integer-to-english-words) |
 | [0664-strange-printer](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0726-number-of-atoms) |
