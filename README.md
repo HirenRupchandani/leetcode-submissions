@@ -214,6 +214,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1014-k-closest-points-to-origin) |
 | [1333-sort-the-jumbled-numbers](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -224,6 +225,7 @@
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1014-k-closest-points-to-origin) |
 | [2379-maximum-total-importance-of-roads](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/2379-maximum-total-importance-of-roads) |
 ## Depth-First Search
 |  |
@@ -258,6 +260,7 @@
 | [0870-magic-squares-in-grid](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1014-k-closest-points-to-origin) |
 | [1196-filling-bookcase-shelves](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1293-three-consecutive-odds) |
@@ -315,6 +318,7 @@
 | ------- |
 | [0273-integer-to-english-words](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0870-magic-squares-in-grid) |
+| [1014-k-closest-points-to-origin](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1014-k-closest-points-to-origin) |
 | [1642-water-bottles](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/2645-pass-the-pillow) |
@@ -381,6 +385,7 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1014-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
 | ------- |
@@ -435,4 +440,12 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
