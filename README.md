@@ -252,6 +252,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0015-3sum) |
+| [0084-largest-rectangle-in-histogram](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0739-daily-temperatures](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0739-daily-temperatures) |
 | [0870-magic-squares-in-grid](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0870-magic-squares-in-grid) |
@@ -345,6 +346,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0155-min-stack) |
 | [0726-number-of-atoms](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0726-number-of-atoms) |
 | [0739-daily-temperatures](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0739-daily-temperatures) |
@@ -423,6 +425,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0739-daily-temperatures) |
 ## Binary Search Tree
 |  |
