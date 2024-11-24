@@ -283,6 +283,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0242-valid-anagram](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0726-number-of-atoms) |
@@ -304,6 +305,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/HirenRupchandani/leetcode-submissions/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
